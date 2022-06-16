@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\Revesre\Revesre\bin\Debug\net5.0\Revesre.exe
+C:\Users\o1357\source\repos\Revesre\Revesre\bin\Debug\net5.0\Revesre.deps.json
+C:\Users\o1357\source\repos\Revesre\Revesre\bin\Debug\net5.0\Revesre.runtimeconfig.json
+C:\Users\o1357\source\repos\Revesre\Revesre\bin\Debug\net5.0\Revesre.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\Revesre\Revesre\bin\Debug\net5.0\Revesre.dll
+C:\Users\o1357\source\repos\Revesre\Revesre\bin\Debug\net5.0\Revesre.pdb
+C:\Users\o1357\source\repos\Revesre\Revesre\obj\Debug\net5.0\Revesre.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\Revesre\Revesre\obj\Debug\net5.0\Revesre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\Revesre\Revesre\obj\Debug\net5.0\Revesre.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\Revesre\Revesre\obj\Debug\net5.0\Revesre.AssemblyInfo.cs
+C:\Users\o1357\source\repos\Revesre\Revesre\obj\Debug\net5.0\Revesre.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\Revesre\Revesre\obj\Debug\net5.0\Revesre.dll
+C:\Users\o1357\source\repos\Revesre\Revesre\obj\Debug\net5.0\refint\Revesre.dll
+C:\Users\o1357\source\repos\Revesre\Revesre\obj\Debug\net5.0\Revesre.pdb
+C:\Users\o1357\source\repos\Revesre\Revesre\obj\Debug\net5.0\Revesre.genruntimeconfig.cache
+C:\Users\o1357\source\repos\Revesre\Revesre\obj\Debug\net5.0\ref\Revesre.dll

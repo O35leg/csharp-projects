@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\Invar\Invar\bin\Debug\net5.0\Invar.exe
+C:\Users\o1357\source\repos\Invar\Invar\bin\Debug\net5.0\Invar.deps.json
+C:\Users\o1357\source\repos\Invar\Invar\bin\Debug\net5.0\Invar.runtimeconfig.json
+C:\Users\o1357\source\repos\Invar\Invar\bin\Debug\net5.0\Invar.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\Invar\Invar\bin\Debug\net5.0\Invar.dll
+C:\Users\o1357\source\repos\Invar\Invar\bin\Debug\net5.0\Invar.pdb
+C:\Users\o1357\source\repos\Invar\Invar\obj\Debug\net5.0\Invar.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\Invar\Invar\obj\Debug\net5.0\Invar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\Invar\Invar\obj\Debug\net5.0\Invar.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\Invar\Invar\obj\Debug\net5.0\Invar.AssemblyInfo.cs
+C:\Users\o1357\source\repos\Invar\Invar\obj\Debug\net5.0\Invar.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\Invar\Invar\obj\Debug\net5.0\Invar.dll
+C:\Users\o1357\source\repos\Invar\Invar\obj\Debug\net5.0\refint\Invar.dll
+C:\Users\o1357\source\repos\Invar\Invar\obj\Debug\net5.0\Invar.pdb
+C:\Users\o1357\source\repos\Invar\Invar\obj\Debug\net5.0\Invar.genruntimeconfig.cache
+C:\Users\o1357\source\repos\Invar\Invar\obj\Debug\net5.0\ref\Invar.dll

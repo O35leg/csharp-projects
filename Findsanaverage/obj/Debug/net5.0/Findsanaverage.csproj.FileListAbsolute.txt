@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\Findsanaverage\bin\Debug\net5.0\Findsanaverage.exe
+C:\Users\o1357\source\repos\Findsanaverage\bin\Debug\net5.0\Findsanaverage.deps.json
+C:\Users\o1357\source\repos\Findsanaverage\bin\Debug\net5.0\Findsanaverage.runtimeconfig.json
+C:\Users\o1357\source\repos\Findsanaverage\bin\Debug\net5.0\Findsanaverage.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\Findsanaverage\bin\Debug\net5.0\Findsanaverage.dll
+C:\Users\o1357\source\repos\Findsanaverage\bin\Debug\net5.0\ref\Findsanaverage.dll
+C:\Users\o1357\source\repos\Findsanaverage\bin\Debug\net5.0\Findsanaverage.pdb
+C:\Users\o1357\source\repos\Findsanaverage\obj\Debug\net5.0\Findsanaverage.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\Findsanaverage\obj\Debug\net5.0\Findsanaverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\Findsanaverage\obj\Debug\net5.0\Findsanaverage.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\Findsanaverage\obj\Debug\net5.0\Findsanaverage.AssemblyInfo.cs
+C:\Users\o1357\source\repos\Findsanaverage\obj\Debug\net5.0\Findsanaverage.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\Findsanaverage\obj\Debug\net5.0\Findsanaverage.dll
+C:\Users\o1357\source\repos\Findsanaverage\obj\Debug\net5.0\ref\Findsanaverage.dll
+C:\Users\o1357\source\repos\Findsanaverage\obj\Debug\net5.0\Findsanaverage.pdb
+C:\Users\o1357\source\repos\Findsanaverage\obj\Debug\net5.0\Findsanaverage.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\Frankdle\Frankdle\bin\Debug\net5.0\Frankdle.exe
+C:\Users\o1357\source\repos\Frankdle\Frankdle\bin\Debug\net5.0\Frankdle.deps.json
+C:\Users\o1357\source\repos\Frankdle\Frankdle\bin\Debug\net5.0\Frankdle.runtimeconfig.json
+C:\Users\o1357\source\repos\Frankdle\Frankdle\bin\Debug\net5.0\Frankdle.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\Frankdle\Frankdle\bin\Debug\net5.0\Frankdle.dll
+C:\Users\o1357\source\repos\Frankdle\Frankdle\bin\Debug\net5.0\Frankdle.pdb
+C:\Users\o1357\source\repos\Frankdle\Frankdle\obj\Debug\net5.0\Frankdle.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\Frankdle\Frankdle\obj\Debug\net5.0\Frankdle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\Frankdle\Frankdle\obj\Debug\net5.0\Frankdle.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\Frankdle\Frankdle\obj\Debug\net5.0\Frankdle.AssemblyInfo.cs
+C:\Users\o1357\source\repos\Frankdle\Frankdle\obj\Debug\net5.0\Frankdle.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\Frankdle\Frankdle\obj\Debug\net5.0\Frankdle.dll
+C:\Users\o1357\source\repos\Frankdle\Frankdle\obj\Debug\net5.0\refint\Frankdle.dll
+C:\Users\o1357\source\repos\Frankdle\Frankdle\obj\Debug\net5.0\Frankdle.pdb
+C:\Users\o1357\source\repos\Frankdle\Frankdle\obj\Debug\net5.0\Frankdle.genruntimeconfig.cache
+C:\Users\o1357\source\repos\Frankdle\Frankdle\obj\Debug\net5.0\ref\Frankdle.dll

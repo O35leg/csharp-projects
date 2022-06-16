@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\For_or_var\bin\Debug\net5.0\For_or_var.exe
+C:\Users\o1357\source\repos\For_or_var\bin\Debug\net5.0\For_or_var.deps.json
+C:\Users\o1357\source\repos\For_or_var\bin\Debug\net5.0\For_or_var.runtimeconfig.json
+C:\Users\o1357\source\repos\For_or_var\bin\Debug\net5.0\For_or_var.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\For_or_var\bin\Debug\net5.0\For_or_var.dll
+C:\Users\o1357\source\repos\For_or_var\bin\Debug\net5.0\ref\For_or_var.dll
+C:\Users\o1357\source\repos\For_or_var\bin\Debug\net5.0\For_or_var.pdb
+C:\Users\o1357\source\repos\For_or_var\obj\Debug\net5.0\For_or_var.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\For_or_var\obj\Debug\net5.0\For_or_var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\For_or_var\obj\Debug\net5.0\For_or_var.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\For_or_var\obj\Debug\net5.0\For_or_var.AssemblyInfo.cs
+C:\Users\o1357\source\repos\For_or_var\obj\Debug\net5.0\For_or_var.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\For_or_var\obj\Debug\net5.0\For_or_var.dll
+C:\Users\o1357\source\repos\For_or_var\obj\Debug\net5.0\ref\For_or_var.dll
+C:\Users\o1357\source\repos\For_or_var\obj\Debug\net5.0\For_or_var.pdb
+C:\Users\o1357\source\repos\For_or_var\obj\Debug\net5.0\For_or_var.genruntimeconfig.cache

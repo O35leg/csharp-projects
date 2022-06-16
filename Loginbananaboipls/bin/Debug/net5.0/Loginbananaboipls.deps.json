@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Loginbananaboipls/1.0.0": {
+        "runtime": {
+          "Loginbananaboipls.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loginbananaboipls/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

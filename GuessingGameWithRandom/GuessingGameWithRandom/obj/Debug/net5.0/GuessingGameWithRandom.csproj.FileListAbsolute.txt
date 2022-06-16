@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\GuessingGameWithRandom\GuessingGameWithRandom\bin\Debug\net5.0\GuessingGameWithRandom.exe
+C:\Users\o1357\source\repos\GuessingGameWithRandom\GuessingGameWithRandom\bin\Debug\net5.0\GuessingGameWithRandom.deps.json
+C:\Users\o1357\source\repos\GuessingGameWithRandom\GuessingGameWithRandom\bin\Debug\net5.0\GuessingGameWithRandom.runtimeconfig.json
+C:\Users\o1357\source\repos\GuessingGameWithRandom\GuessingGameWithRandom\bin\Debug\net5.0\GuessingGameWithRandom.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\GuessingGameWithRandom\GuessingGameWithRandom\bin\Debug\net5.0\GuessingGameWithRandom.dll
+C:\Users\o1357\source\repos\GuessingGameWithRandom\GuessingGameWithRandom\bin\Debug\net5.0\GuessingGameWithRandom.pdb
+C:\Users\o1357\source\repos\GuessingGameWithRandom\GuessingGameWithRandom\obj\Debug\net5.0\GuessingGameWithRandom.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\GuessingGameWithRandom\GuessingGameWithRandom\obj\Debug\net5.0\GuessingGameWithRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\GuessingGameWithRandom\GuessingGameWithRandom\obj\Debug\net5.0\GuessingGameWithRandom.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\GuessingGameWithRandom\GuessingGameWithRandom\obj\Debug\net5.0\GuessingGameWithRandom.AssemblyInfo.cs
+C:\Users\o1357\source\repos\GuessingGameWithRandom\GuessingGameWithRandom\obj\Debug\net5.0\GuessingGameWithRandom.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\GuessingGameWithRandom\GuessingGameWithRandom\obj\Debug\net5.0\GuessingGameWithRandom.dll
+C:\Users\o1357\source\repos\GuessingGameWithRandom\GuessingGameWithRandom\obj\Debug\net5.0\refint\GuessingGameWithRandom.dll
+C:\Users\o1357\source\repos\GuessingGameWithRandom\GuessingGameWithRandom\obj\Debug\net5.0\GuessingGameWithRandom.pdb
+C:\Users\o1357\source\repos\GuessingGameWithRandom\GuessingGameWithRandom\obj\Debug\net5.0\GuessingGameWithRandom.genruntimeconfig.cache
+C:\Users\o1357\source\repos\GuessingGameWithRandom\GuessingGameWithRandom\obj\Debug\net5.0\ref\GuessingGameWithRandom.dll

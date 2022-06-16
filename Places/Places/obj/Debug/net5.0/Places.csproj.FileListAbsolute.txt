@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\Places\Places\bin\Debug\net5.0\Places.exe
+C:\Users\o1357\source\repos\Places\Places\bin\Debug\net5.0\Places.deps.json
+C:\Users\o1357\source\repos\Places\Places\bin\Debug\net5.0\Places.runtimeconfig.json
+C:\Users\o1357\source\repos\Places\Places\bin\Debug\net5.0\Places.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\Places\Places\bin\Debug\net5.0\Places.dll
+C:\Users\o1357\source\repos\Places\Places\bin\Debug\net5.0\Places.pdb
+C:\Users\o1357\source\repos\Places\Places\obj\Debug\net5.0\Places.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\Places\Places\obj\Debug\net5.0\Places.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\Places\Places\obj\Debug\net5.0\Places.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\Places\Places\obj\Debug\net5.0\Places.AssemblyInfo.cs
+C:\Users\o1357\source\repos\Places\Places\obj\Debug\net5.0\Places.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\Places\Places\obj\Debug\net5.0\Places.dll
+C:\Users\o1357\source\repos\Places\Places\obj\Debug\net5.0\refint\Places.dll
+C:\Users\o1357\source\repos\Places\Places\obj\Debug\net5.0\Places.pdb
+C:\Users\o1357\source\repos\Places\Places\obj\Debug\net5.0\Places.genruntimeconfig.cache
+C:\Users\o1357\source\repos\Places\Places\obj\Debug\net5.0\ref\Places.dll

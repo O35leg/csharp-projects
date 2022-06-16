@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\AverageWeight\AverageWeight\bin\Debug\net5.0\AverageWeight.exe
+C:\Users\o1357\source\repos\AverageWeight\AverageWeight\bin\Debug\net5.0\AverageWeight.deps.json
+C:\Users\o1357\source\repos\AverageWeight\AverageWeight\bin\Debug\net5.0\AverageWeight.runtimeconfig.json
+C:\Users\o1357\source\repos\AverageWeight\AverageWeight\bin\Debug\net5.0\AverageWeight.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\AverageWeight\AverageWeight\bin\Debug\net5.0\AverageWeight.dll
+C:\Users\o1357\source\repos\AverageWeight\AverageWeight\bin\Debug\net5.0\AverageWeight.pdb
+C:\Users\o1357\source\repos\AverageWeight\AverageWeight\obj\Debug\net5.0\AverageWeight.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\AverageWeight\AverageWeight\obj\Debug\net5.0\AverageWeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\AverageWeight\AverageWeight\obj\Debug\net5.0\AverageWeight.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\AverageWeight\AverageWeight\obj\Debug\net5.0\AverageWeight.AssemblyInfo.cs
+C:\Users\o1357\source\repos\AverageWeight\AverageWeight\obj\Debug\net5.0\AverageWeight.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\AverageWeight\AverageWeight\obj\Debug\net5.0\AverageWeight.dll
+C:\Users\o1357\source\repos\AverageWeight\AverageWeight\obj\Debug\net5.0\refint\AverageWeight.dll
+C:\Users\o1357\source\repos\AverageWeight\AverageWeight\obj\Debug\net5.0\AverageWeight.pdb
+C:\Users\o1357\source\repos\AverageWeight\AverageWeight\obj\Debug\net5.0\AverageWeight.genruntimeconfig.cache
+C:\Users\o1357\source\repos\AverageWeight\AverageWeight\obj\Debug\net5.0\ref\AverageWeight.dll

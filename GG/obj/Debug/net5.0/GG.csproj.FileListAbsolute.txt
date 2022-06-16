@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\GG\bin\Debug\net5.0\GG.exe
+C:\Users\o1357\source\repos\GG\bin\Debug\net5.0\GG.deps.json
+C:\Users\o1357\source\repos\GG\bin\Debug\net5.0\GG.runtimeconfig.json
+C:\Users\o1357\source\repos\GG\bin\Debug\net5.0\GG.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\GG\bin\Debug\net5.0\GG.dll
+C:\Users\o1357\source\repos\GG\bin\Debug\net5.0\ref\GG.dll
+C:\Users\o1357\source\repos\GG\bin\Debug\net5.0\GG.pdb
+C:\Users\o1357\source\repos\GG\obj\Debug\net5.0\GG.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\GG\obj\Debug\net5.0\GG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\GG\obj\Debug\net5.0\GG.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\GG\obj\Debug\net5.0\GG.AssemblyInfo.cs
+C:\Users\o1357\source\repos\GG\obj\Debug\net5.0\GG.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\GG\obj\Debug\net5.0\GG.dll
+C:\Users\o1357\source\repos\GG\obj\Debug\net5.0\ref\GG.dll
+C:\Users\o1357\source\repos\GG\obj\Debug\net5.0\GG.pdb
+C:\Users\o1357\source\repos\GG\obj\Debug\net5.0\GG.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\o1357\source\repos\Enteryournamefrombook\bin\Debug\Enteryournamefrombook.exe.config
+C:\Users\o1357\source\repos\Enteryournamefrombook\bin\Debug\Enteryournamefrombook.exe
+C:\Users\o1357\source\repos\Enteryournamefrombook\bin\Debug\Enteryournamefrombook.pdb
+C:\Users\o1357\source\repos\Enteryournamefrombook\obj\Debug\Enteryournamefrombook.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\Enteryournamefrombook\obj\Debug\Enteryournamefrombook.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\Enteryournamefrombook\obj\Debug\Enteryournamefrombook.exe
+C:\Users\o1357\source\repos\Enteryournamefrombook\obj\Debug\Enteryournamefrombook.pdb

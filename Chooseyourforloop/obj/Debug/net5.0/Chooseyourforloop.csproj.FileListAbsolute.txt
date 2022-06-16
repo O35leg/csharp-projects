@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\Chooseyourforloop\bin\Debug\net5.0\Chooseyourforloop.exe
+C:\Users\o1357\source\repos\Chooseyourforloop\bin\Debug\net5.0\Chooseyourforloop.deps.json
+C:\Users\o1357\source\repos\Chooseyourforloop\bin\Debug\net5.0\Chooseyourforloop.runtimeconfig.json
+C:\Users\o1357\source\repos\Chooseyourforloop\bin\Debug\net5.0\Chooseyourforloop.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\Chooseyourforloop\bin\Debug\net5.0\Chooseyourforloop.dll
+C:\Users\o1357\source\repos\Chooseyourforloop\bin\Debug\net5.0\ref\Chooseyourforloop.dll
+C:\Users\o1357\source\repos\Chooseyourforloop\bin\Debug\net5.0\Chooseyourforloop.pdb
+C:\Users\o1357\source\repos\Chooseyourforloop\obj\Debug\net5.0\Chooseyourforloop.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\Chooseyourforloop\obj\Debug\net5.0\Chooseyourforloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\Chooseyourforloop\obj\Debug\net5.0\Chooseyourforloop.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\Chooseyourforloop\obj\Debug\net5.0\Chooseyourforloop.AssemblyInfo.cs
+C:\Users\o1357\source\repos\Chooseyourforloop\obj\Debug\net5.0\Chooseyourforloop.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\Chooseyourforloop\obj\Debug\net5.0\Chooseyourforloop.dll
+C:\Users\o1357\source\repos\Chooseyourforloop\obj\Debug\net5.0\ref\Chooseyourforloop.dll
+C:\Users\o1357\source\repos\Chooseyourforloop\obj\Debug\net5.0\Chooseyourforloop.pdb
+C:\Users\o1357\source\repos\Chooseyourforloop\obj\Debug\net5.0\Chooseyourforloop.genruntimeconfig.cache

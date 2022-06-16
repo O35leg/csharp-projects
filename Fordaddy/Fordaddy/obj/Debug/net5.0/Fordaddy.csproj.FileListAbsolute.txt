@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\Fordaddy\Fordaddy\bin\Debug\net5.0\Fordaddy.exe
+C:\Users\o1357\source\repos\Fordaddy\Fordaddy\bin\Debug\net5.0\Fordaddy.deps.json
+C:\Users\o1357\source\repos\Fordaddy\Fordaddy\bin\Debug\net5.0\Fordaddy.runtimeconfig.json
+C:\Users\o1357\source\repos\Fordaddy\Fordaddy\bin\Debug\net5.0\Fordaddy.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\Fordaddy\Fordaddy\bin\Debug\net5.0\Fordaddy.dll
+C:\Users\o1357\source\repos\Fordaddy\Fordaddy\bin\Debug\net5.0\Fordaddy.pdb
+C:\Users\o1357\source\repos\Fordaddy\Fordaddy\obj\Debug\net5.0\Fordaddy.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\Fordaddy\Fordaddy\obj\Debug\net5.0\Fordaddy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\Fordaddy\Fordaddy\obj\Debug\net5.0\Fordaddy.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\Fordaddy\Fordaddy\obj\Debug\net5.0\Fordaddy.AssemblyInfo.cs
+C:\Users\o1357\source\repos\Fordaddy\Fordaddy\obj\Debug\net5.0\Fordaddy.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\Fordaddy\Fordaddy\obj\Debug\net5.0\Fordaddy.dll
+C:\Users\o1357\source\repos\Fordaddy\Fordaddy\obj\Debug\net5.0\refint\Fordaddy.dll
+C:\Users\o1357\source\repos\Fordaddy\Fordaddy\obj\Debug\net5.0\Fordaddy.pdb
+C:\Users\o1357\source\repos\Fordaddy\Fordaddy\obj\Debug\net5.0\Fordaddy.genruntimeconfig.cache
+C:\Users\o1357\source\repos\Fordaddy\Fordaddy\obj\Debug\net5.0\ref\Fordaddy.dll

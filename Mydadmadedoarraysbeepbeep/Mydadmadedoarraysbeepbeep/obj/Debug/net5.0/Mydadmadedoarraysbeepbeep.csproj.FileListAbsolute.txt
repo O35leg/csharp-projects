@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\Mydadmadedoarraysbeepbeep\Mydadmadedoarraysbeepbeep\bin\Debug\net5.0\Mydadmadedoarraysbeepbeep.exe
+C:\Users\o1357\source\repos\Mydadmadedoarraysbeepbeep\Mydadmadedoarraysbeepbeep\bin\Debug\net5.0\Mydadmadedoarraysbeepbeep.deps.json
+C:\Users\o1357\source\repos\Mydadmadedoarraysbeepbeep\Mydadmadedoarraysbeepbeep\bin\Debug\net5.0\Mydadmadedoarraysbeepbeep.runtimeconfig.json
+C:\Users\o1357\source\repos\Mydadmadedoarraysbeepbeep\Mydadmadedoarraysbeepbeep\bin\Debug\net5.0\Mydadmadedoarraysbeepbeep.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\Mydadmadedoarraysbeepbeep\Mydadmadedoarraysbeepbeep\bin\Debug\net5.0\Mydadmadedoarraysbeepbeep.dll
+C:\Users\o1357\source\repos\Mydadmadedoarraysbeepbeep\Mydadmadedoarraysbeepbeep\bin\Debug\net5.0\Mydadmadedoarraysbeepbeep.pdb
+C:\Users\o1357\source\repos\Mydadmadedoarraysbeepbeep\Mydadmadedoarraysbeepbeep\obj\Debug\net5.0\Mydadmadedoarraysbeepbeep.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\Mydadmadedoarraysbeepbeep\Mydadmadedoarraysbeepbeep\obj\Debug\net5.0\Mydadmadedoarraysbeepbeep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\Mydadmadedoarraysbeepbeep\Mydadmadedoarraysbeepbeep\obj\Debug\net5.0\Mydadmadedoarraysbeepbeep.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\Mydadmadedoarraysbeepbeep\Mydadmadedoarraysbeepbeep\obj\Debug\net5.0\Mydadmadedoarraysbeepbeep.AssemblyInfo.cs
+C:\Users\o1357\source\repos\Mydadmadedoarraysbeepbeep\Mydadmadedoarraysbeepbeep\obj\Debug\net5.0\Mydadmadedoarraysbeepbeep.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\Mydadmadedoarraysbeepbeep\Mydadmadedoarraysbeepbeep\obj\Debug\net5.0\Mydadmadedoarraysbeepbeep.dll
+C:\Users\o1357\source\repos\Mydadmadedoarraysbeepbeep\Mydadmadedoarraysbeepbeep\obj\Debug\net5.0\refint\Mydadmadedoarraysbeepbeep.dll
+C:\Users\o1357\source\repos\Mydadmadedoarraysbeepbeep\Mydadmadedoarraysbeepbeep\obj\Debug\net5.0\Mydadmadedoarraysbeepbeep.pdb
+C:\Users\o1357\source\repos\Mydadmadedoarraysbeepbeep\Mydadmadedoarraysbeepbeep\obj\Debug\net5.0\Mydadmadedoarraysbeepbeep.genruntimeconfig.cache
+C:\Users\o1357\source\repos\Mydadmadedoarraysbeepbeep\Mydadmadedoarraysbeepbeep\obj\Debug\net5.0\ref\Mydadmadedoarraysbeepbeep.dll

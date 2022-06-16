@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\CommandPrompt\obj\Debug\net5.0\CommandPrompt.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\CommandPrompt\obj\Debug\net5.0\CommandPrompt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\CommandPrompt\obj\Debug\net5.0\CommandPrompt.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\CommandPrompt\obj\Debug\net5.0\CommandPrompt.AssemblyInfo.cs
+C:\Users\o1357\source\repos\CommandPrompt\obj\Debug\net5.0\CommandPrompt.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\CommandPrompt\bin\Debug\net5.0\CommandPrompt.exe
+C:\Users\o1357\source\repos\CommandPrompt\bin\Debug\net5.0\CommandPrompt.deps.json
+C:\Users\o1357\source\repos\CommandPrompt\bin\Debug\net5.0\CommandPrompt.runtimeconfig.json
+C:\Users\o1357\source\repos\CommandPrompt\bin\Debug\net5.0\CommandPrompt.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\CommandPrompt\bin\Debug\net5.0\CommandPrompt.dll
+C:\Users\o1357\source\repos\CommandPrompt\bin\Debug\net5.0\ref\CommandPrompt.dll
+C:\Users\o1357\source\repos\CommandPrompt\bin\Debug\net5.0\CommandPrompt.pdb
+C:\Users\o1357\source\repos\CommandPrompt\obj\Debug\net5.0\CommandPrompt.dll
+C:\Users\o1357\source\repos\CommandPrompt\obj\Debug\net5.0\ref\CommandPrompt.dll
+C:\Users\o1357\source\repos\CommandPrompt\obj\Debug\net5.0\CommandPrompt.pdb
+C:\Users\o1357\source\repos\CommandPrompt\obj\Debug\net5.0\CommandPrompt.genruntimeconfig.cache

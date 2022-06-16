@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\TankBattles\bin\Debug\net5.0\TankBattles.exe
+C:\Users\o1357\source\repos\TankBattles\bin\Debug\net5.0\TankBattles.deps.json
+C:\Users\o1357\source\repos\TankBattles\bin\Debug\net5.0\TankBattles.runtimeconfig.json
+C:\Users\o1357\source\repos\TankBattles\bin\Debug\net5.0\TankBattles.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\TankBattles\bin\Debug\net5.0\TankBattles.dll
+C:\Users\o1357\source\repos\TankBattles\bin\Debug\net5.0\ref\TankBattles.dll
+C:\Users\o1357\source\repos\TankBattles\bin\Debug\net5.0\TankBattles.pdb
+C:\Users\o1357\source\repos\TankBattles\obj\Debug\net5.0\TankBattles.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\TankBattles\obj\Debug\net5.0\TankBattles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\TankBattles\obj\Debug\net5.0\TankBattles.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\TankBattles\obj\Debug\net5.0\TankBattles.AssemblyInfo.cs
+C:\Users\o1357\source\repos\TankBattles\obj\Debug\net5.0\TankBattles.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\TankBattles\obj\Debug\net5.0\TankBattles.dll
+C:\Users\o1357\source\repos\TankBattles\obj\Debug\net5.0\ref\TankBattles.dll
+C:\Users\o1357\source\repos\TankBattles\obj\Debug\net5.0\TankBattles.pdb
+C:\Users\o1357\source\repos\TankBattles\obj\Debug\net5.0\TankBattles.genruntimeconfig.cache

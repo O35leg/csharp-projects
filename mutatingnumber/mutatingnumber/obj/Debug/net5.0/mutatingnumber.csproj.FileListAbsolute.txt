@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\mutatingnumber\mutatingnumber\bin\Debug\net5.0\mutatingnumber.exe
+C:\Users\o1357\source\repos\mutatingnumber\mutatingnumber\bin\Debug\net5.0\mutatingnumber.deps.json
+C:\Users\o1357\source\repos\mutatingnumber\mutatingnumber\bin\Debug\net5.0\mutatingnumber.runtimeconfig.json
+C:\Users\o1357\source\repos\mutatingnumber\mutatingnumber\bin\Debug\net5.0\mutatingnumber.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\mutatingnumber\mutatingnumber\bin\Debug\net5.0\mutatingnumber.dll
+C:\Users\o1357\source\repos\mutatingnumber\mutatingnumber\bin\Debug\net5.0\mutatingnumber.pdb
+C:\Users\o1357\source\repos\mutatingnumber\mutatingnumber\obj\Debug\net5.0\mutatingnumber.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\mutatingnumber\mutatingnumber\obj\Debug\net5.0\mutatingnumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\mutatingnumber\mutatingnumber\obj\Debug\net5.0\mutatingnumber.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\mutatingnumber\mutatingnumber\obj\Debug\net5.0\mutatingnumber.AssemblyInfo.cs
+C:\Users\o1357\source\repos\mutatingnumber\mutatingnumber\obj\Debug\net5.0\mutatingnumber.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\mutatingnumber\mutatingnumber\obj\Debug\net5.0\mutatingnumber.dll
+C:\Users\o1357\source\repos\mutatingnumber\mutatingnumber\obj\Debug\net5.0\refint\mutatingnumber.dll
+C:\Users\o1357\source\repos\mutatingnumber\mutatingnumber\obj\Debug\net5.0\mutatingnumber.pdb
+C:\Users\o1357\source\repos\mutatingnumber\mutatingnumber\obj\Debug\net5.0\mutatingnumber.genruntimeconfig.cache
+C:\Users\o1357\source\repos\mutatingnumber\mutatingnumber\obj\Debug\net5.0\ref\mutatingnumber.dll

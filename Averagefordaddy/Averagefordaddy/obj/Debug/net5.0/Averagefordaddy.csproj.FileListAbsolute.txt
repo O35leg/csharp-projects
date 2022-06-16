@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\Averagefordaddy\Averagefordaddy\bin\Debug\net5.0\Averagefordaddy.exe
+C:\Users\o1357\source\repos\Averagefordaddy\Averagefordaddy\bin\Debug\net5.0\Averagefordaddy.deps.json
+C:\Users\o1357\source\repos\Averagefordaddy\Averagefordaddy\bin\Debug\net5.0\Averagefordaddy.runtimeconfig.json
+C:\Users\o1357\source\repos\Averagefordaddy\Averagefordaddy\bin\Debug\net5.0\Averagefordaddy.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\Averagefordaddy\Averagefordaddy\bin\Debug\net5.0\Averagefordaddy.dll
+C:\Users\o1357\source\repos\Averagefordaddy\Averagefordaddy\bin\Debug\net5.0\Averagefordaddy.pdb
+C:\Users\o1357\source\repos\Averagefordaddy\Averagefordaddy\obj\Debug\net5.0\Averagefordaddy.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\Averagefordaddy\Averagefordaddy\obj\Debug\net5.0\Averagefordaddy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\Averagefordaddy\Averagefordaddy\obj\Debug\net5.0\Averagefordaddy.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\Averagefordaddy\Averagefordaddy\obj\Debug\net5.0\Averagefordaddy.AssemblyInfo.cs
+C:\Users\o1357\source\repos\Averagefordaddy\Averagefordaddy\obj\Debug\net5.0\Averagefordaddy.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\Averagefordaddy\Averagefordaddy\obj\Debug\net5.0\Averagefordaddy.dll
+C:\Users\o1357\source\repos\Averagefordaddy\Averagefordaddy\obj\Debug\net5.0\refint\Averagefordaddy.dll
+C:\Users\o1357\source\repos\Averagefordaddy\Averagefordaddy\obj\Debug\net5.0\Averagefordaddy.pdb
+C:\Users\o1357\source\repos\Averagefordaddy\Averagefordaddy\obj\Debug\net5.0\Averagefordaddy.genruntimeconfig.cache
+C:\Users\o1357\source\repos\Averagefordaddy\Averagefordaddy\obj\Debug\net5.0\ref\Averagefordaddy.dll

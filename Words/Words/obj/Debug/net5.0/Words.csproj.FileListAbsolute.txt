@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\Words\Words\bin\Debug\net5.0\Words.exe
+C:\Users\o1357\source\repos\Words\Words\bin\Debug\net5.0\Words.deps.json
+C:\Users\o1357\source\repos\Words\Words\bin\Debug\net5.0\Words.runtimeconfig.json
+C:\Users\o1357\source\repos\Words\Words\bin\Debug\net5.0\Words.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\Words\Words\bin\Debug\net5.0\Words.dll
+C:\Users\o1357\source\repos\Words\Words\bin\Debug\net5.0\Words.pdb
+C:\Users\o1357\source\repos\Words\Words\obj\Debug\net5.0\Words.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\Words\Words\obj\Debug\net5.0\Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\Words\Words\obj\Debug\net5.0\Words.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\Words\Words\obj\Debug\net5.0\Words.AssemblyInfo.cs
+C:\Users\o1357\source\repos\Words\Words\obj\Debug\net5.0\Words.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\Words\Words\obj\Debug\net5.0\Words.dll
+C:\Users\o1357\source\repos\Words\Words\obj\Debug\net5.0\refint\Words.dll
+C:\Users\o1357\source\repos\Words\Words\obj\Debug\net5.0\Words.pdb
+C:\Users\o1357\source\repos\Words\Words\obj\Debug\net5.0\Words.genruntimeconfig.cache
+C:\Users\o1357\source\repos\Words\Words\obj\Debug\net5.0\ref\Words.dll

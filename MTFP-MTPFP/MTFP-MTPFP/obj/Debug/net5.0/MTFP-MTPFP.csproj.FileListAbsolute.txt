@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\MTFP-MTPFP\MTFP-MTPFP\bin\Debug\net5.0\MTFP-MTPFP.exe
+C:\Users\o1357\source\repos\MTFP-MTPFP\MTFP-MTPFP\bin\Debug\net5.0\MTFP-MTPFP.deps.json
+C:\Users\o1357\source\repos\MTFP-MTPFP\MTFP-MTPFP\bin\Debug\net5.0\MTFP-MTPFP.runtimeconfig.json
+C:\Users\o1357\source\repos\MTFP-MTPFP\MTFP-MTPFP\bin\Debug\net5.0\MTFP-MTPFP.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\MTFP-MTPFP\MTFP-MTPFP\bin\Debug\net5.0\MTFP-MTPFP.dll
+C:\Users\o1357\source\repos\MTFP-MTPFP\MTFP-MTPFP\bin\Debug\net5.0\MTFP-MTPFP.pdb
+C:\Users\o1357\source\repos\MTFP-MTPFP\MTFP-MTPFP\obj\Debug\net5.0\MTFP-MTPFP.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\MTFP-MTPFP\MTFP-MTPFP\obj\Debug\net5.0\MTFP-MTPFP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\MTFP-MTPFP\MTFP-MTPFP\obj\Debug\net5.0\MTFP-MTPFP.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\MTFP-MTPFP\MTFP-MTPFP\obj\Debug\net5.0\MTFP-MTPFP.AssemblyInfo.cs
+C:\Users\o1357\source\repos\MTFP-MTPFP\MTFP-MTPFP\obj\Debug\net5.0\MTFP-MTPFP.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\MTFP-MTPFP\MTFP-MTPFP\obj\Debug\net5.0\MTFP-MTPFP.dll
+C:\Users\o1357\source\repos\MTFP-MTPFP\MTFP-MTPFP\obj\Debug\net5.0\refint\MTFP-MTPFP.dll
+C:\Users\o1357\source\repos\MTFP-MTPFP\MTFP-MTPFP\obj\Debug\net5.0\MTFP-MTPFP.pdb
+C:\Users\o1357\source\repos\MTFP-MTPFP\MTFP-MTPFP\obj\Debug\net5.0\MTFP-MTPFP.genruntimeconfig.cache
+C:\Users\o1357\source\repos\MTFP-MTPFP\MTFP-MTPFP\obj\Debug\net5.0\ref\MTFP-MTPFP.dll

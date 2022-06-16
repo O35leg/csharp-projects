@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\Calcualtor.exe\Calcualtor.exe\bin\Debug\net5.0\Calcualtor.exe.exe
+C:\Users\o1357\source\repos\Calcualtor.exe\Calcualtor.exe\bin\Debug\net5.0\Calcualtor.exe.deps.json
+C:\Users\o1357\source\repos\Calcualtor.exe\Calcualtor.exe\bin\Debug\net5.0\Calcualtor.exe.runtimeconfig.json
+C:\Users\o1357\source\repos\Calcualtor.exe\Calcualtor.exe\bin\Debug\net5.0\Calcualtor.exe.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\Calcualtor.exe\Calcualtor.exe\bin\Debug\net5.0\Calcualtor.exe.dll
+C:\Users\o1357\source\repos\Calcualtor.exe\Calcualtor.exe\bin\Debug\net5.0\Calcualtor.exe.pdb
+C:\Users\o1357\source\repos\Calcualtor.exe\Calcualtor.exe\obj\Debug\net5.0\Calcualtor.exe.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\Calcualtor.exe\Calcualtor.exe\obj\Debug\net5.0\Calcualtor.exe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\Calcualtor.exe\Calcualtor.exe\obj\Debug\net5.0\Calcualtor.exe.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\Calcualtor.exe\Calcualtor.exe\obj\Debug\net5.0\Calcualtor.exe.AssemblyInfo.cs
+C:\Users\o1357\source\repos\Calcualtor.exe\Calcualtor.exe\obj\Debug\net5.0\Calcualtor.exe.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\Calcualtor.exe\Calcualtor.exe\obj\Debug\net5.0\Calcualtor.exe.dll
+C:\Users\o1357\source\repos\Calcualtor.exe\Calcualtor.exe\obj\Debug\net5.0\refint\Calcualtor.exe.dll
+C:\Users\o1357\source\repos\Calcualtor.exe\Calcualtor.exe\obj\Debug\net5.0\Calcualtor.exe.pdb
+C:\Users\o1357\source\repos\Calcualtor.exe\Calcualtor.exe\obj\Debug\net5.0\Calcualtor.exe.genruntimeconfig.cache
+C:\Users\o1357\source\repos\Calcualtor.exe\Calcualtor.exe\obj\Debug\net5.0\ref\Calcualtor.exe.dll

@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\RandomNumbers\RandomNumbers\bin\Debug\net5.0\RandomNumbers.exe
+C:\Users\o1357\source\repos\RandomNumbers\RandomNumbers\bin\Debug\net5.0\RandomNumbers.deps.json
+C:\Users\o1357\source\repos\RandomNumbers\RandomNumbers\bin\Debug\net5.0\RandomNumbers.runtimeconfig.json
+C:\Users\o1357\source\repos\RandomNumbers\RandomNumbers\bin\Debug\net5.0\RandomNumbers.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\RandomNumbers\RandomNumbers\bin\Debug\net5.0\RandomNumbers.dll
+C:\Users\o1357\source\repos\RandomNumbers\RandomNumbers\bin\Debug\net5.0\RandomNumbers.pdb
+C:\Users\o1357\source\repos\RandomNumbers\RandomNumbers\obj\Debug\net5.0\RandomNumbers.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\RandomNumbers\RandomNumbers\obj\Debug\net5.0\RandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\RandomNumbers\RandomNumbers\obj\Debug\net5.0\RandomNumbers.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\RandomNumbers\RandomNumbers\obj\Debug\net5.0\RandomNumbers.AssemblyInfo.cs
+C:\Users\o1357\source\repos\RandomNumbers\RandomNumbers\obj\Debug\net5.0\RandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\RandomNumbers\RandomNumbers\obj\Debug\net5.0\RandomNumbers.dll
+C:\Users\o1357\source\repos\RandomNumbers\RandomNumbers\obj\Debug\net5.0\refint\RandomNumbers.dll
+C:\Users\o1357\source\repos\RandomNumbers\RandomNumbers\obj\Debug\net5.0\RandomNumbers.pdb
+C:\Users\o1357\source\repos\RandomNumbers\RandomNumbers\obj\Debug\net5.0\RandomNumbers.genruntimeconfig.cache
+C:\Users\o1357\source\repos\RandomNumbers\RandomNumbers\obj\Debug\net5.0\ref\RandomNumbers.dll

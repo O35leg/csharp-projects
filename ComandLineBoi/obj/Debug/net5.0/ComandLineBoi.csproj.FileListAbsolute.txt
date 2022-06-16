@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\ComandLineBoi\bin\Debug\net5.0\ComandLineBoi.exe
+C:\Users\o1357\source\repos\ComandLineBoi\bin\Debug\net5.0\ComandLineBoi.deps.json
+C:\Users\o1357\source\repos\ComandLineBoi\bin\Debug\net5.0\ComandLineBoi.runtimeconfig.json
+C:\Users\o1357\source\repos\ComandLineBoi\bin\Debug\net5.0\ComandLineBoi.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\ComandLineBoi\bin\Debug\net5.0\ComandLineBoi.dll
+C:\Users\o1357\source\repos\ComandLineBoi\bin\Debug\net5.0\ref\ComandLineBoi.dll
+C:\Users\o1357\source\repos\ComandLineBoi\bin\Debug\net5.0\ComandLineBoi.pdb
+C:\Users\o1357\source\repos\ComandLineBoi\obj\Debug\net5.0\ComandLineBoi.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\ComandLineBoi\obj\Debug\net5.0\ComandLineBoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\ComandLineBoi\obj\Debug\net5.0\ComandLineBoi.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\ComandLineBoi\obj\Debug\net5.0\ComandLineBoi.AssemblyInfo.cs
+C:\Users\o1357\source\repos\ComandLineBoi\obj\Debug\net5.0\ComandLineBoi.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\ComandLineBoi\obj\Debug\net5.0\ComandLineBoi.dll
+C:\Users\o1357\source\repos\ComandLineBoi\obj\Debug\net5.0\ref\ComandLineBoi.dll
+C:\Users\o1357\source\repos\ComandLineBoi\obj\Debug\net5.0\ComandLineBoi.pdb
+C:\Users\o1357\source\repos\ComandLineBoi\obj\Debug\net5.0\ComandLineBoi.genruntimeconfig.cache

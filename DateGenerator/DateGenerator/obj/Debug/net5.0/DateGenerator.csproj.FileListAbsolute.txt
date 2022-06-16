@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\DateGenerator\DateGenerator\bin\Debug\net5.0\DateGenerator.exe
+C:\Users\o1357\source\repos\DateGenerator\DateGenerator\bin\Debug\net5.0\DateGenerator.deps.json
+C:\Users\o1357\source\repos\DateGenerator\DateGenerator\bin\Debug\net5.0\DateGenerator.runtimeconfig.json
+C:\Users\o1357\source\repos\DateGenerator\DateGenerator\bin\Debug\net5.0\DateGenerator.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\DateGenerator\DateGenerator\bin\Debug\net5.0\DateGenerator.dll
+C:\Users\o1357\source\repos\DateGenerator\DateGenerator\bin\Debug\net5.0\DateGenerator.pdb
+C:\Users\o1357\source\repos\DateGenerator\DateGenerator\obj\Debug\net5.0\DateGenerator.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\DateGenerator\DateGenerator\obj\Debug\net5.0\DateGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\DateGenerator\DateGenerator\obj\Debug\net5.0\DateGenerator.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\DateGenerator\DateGenerator\obj\Debug\net5.0\DateGenerator.AssemblyInfo.cs
+C:\Users\o1357\source\repos\DateGenerator\DateGenerator\obj\Debug\net5.0\DateGenerator.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\DateGenerator\DateGenerator\obj\Debug\net5.0\DateGenerator.dll
+C:\Users\o1357\source\repos\DateGenerator\DateGenerator\obj\Debug\net5.0\refint\DateGenerator.dll
+C:\Users\o1357\source\repos\DateGenerator\DateGenerator\obj\Debug\net5.0\DateGenerator.pdb
+C:\Users\o1357\source\repos\DateGenerator\DateGenerator\obj\Debug\net5.0\DateGenerator.genruntimeconfig.cache
+C:\Users\o1357\source\repos\DateGenerator\DateGenerator\obj\Debug\net5.0\ref\DateGenerator.dll

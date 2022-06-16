@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\test545\test545\bin\Debug\net5.0\test545.exe
+C:\Users\o1357\source\repos\test545\test545\bin\Debug\net5.0\test545.deps.json
+C:\Users\o1357\source\repos\test545\test545\bin\Debug\net5.0\test545.runtimeconfig.json
+C:\Users\o1357\source\repos\test545\test545\bin\Debug\net5.0\test545.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\test545\test545\bin\Debug\net5.0\test545.dll
+C:\Users\o1357\source\repos\test545\test545\bin\Debug\net5.0\test545.pdb
+C:\Users\o1357\source\repos\test545\test545\obj\Debug\net5.0\test545.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\test545\test545\obj\Debug\net5.0\test545.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\test545\test545\obj\Debug\net5.0\test545.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\test545\test545\obj\Debug\net5.0\test545.AssemblyInfo.cs
+C:\Users\o1357\source\repos\test545\test545\obj\Debug\net5.0\test545.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\test545\test545\obj\Debug\net5.0\test545.dll
+C:\Users\o1357\source\repos\test545\test545\obj\Debug\net5.0\refint\test545.dll
+C:\Users\o1357\source\repos\test545\test545\obj\Debug\net5.0\test545.pdb
+C:\Users\o1357\source\repos\test545\test545\obj\Debug\net5.0\test545.genruntimeconfig.cache
+C:\Users\o1357\source\repos\test545\test545\obj\Debug\net5.0\ref\test545.dll
