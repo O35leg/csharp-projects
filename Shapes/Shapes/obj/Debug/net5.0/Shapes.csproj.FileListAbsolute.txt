@@ -1,0 +1,16 @@
+C:\Users\o1357\source\repos\Shapes\Shapes\bin\Debug\net5.0\Shapes.exe
+C:\Users\o1357\source\repos\Shapes\Shapes\bin\Debug\net5.0\Shapes.deps.json
+C:\Users\o1357\source\repos\Shapes\Shapes\bin\Debug\net5.0\Shapes.runtimeconfig.json
+C:\Users\o1357\source\repos\Shapes\Shapes\bin\Debug\net5.0\Shapes.runtimeconfig.dev.json
+C:\Users\o1357\source\repos\Shapes\Shapes\bin\Debug\net5.0\Shapes.dll
+C:\Users\o1357\source\repos\Shapes\Shapes\bin\Debug\net5.0\Shapes.pdb
+C:\Users\o1357\source\repos\Shapes\Shapes\obj\Debug\net5.0\Shapes.csproj.AssemblyReference.cache
+C:\Users\o1357\source\repos\Shapes\Shapes\obj\Debug\net5.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o1357\source\repos\Shapes\Shapes\obj\Debug\net5.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\o1357\source\repos\Shapes\Shapes\obj\Debug\net5.0\Shapes.AssemblyInfo.cs
+C:\Users\o1357\source\repos\Shapes\Shapes\obj\Debug\net5.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\o1357\source\repos\Shapes\Shapes\obj\Debug\net5.0\Shapes.dll
+C:\Users\o1357\source\repos\Shapes\Shapes\obj\Debug\net5.0\refint\Shapes.dll
+C:\Users\o1357\source\repos\Shapes\Shapes\obj\Debug\net5.0\Shapes.pdb
+C:\Users\o1357\source\repos\Shapes\Shapes\obj\Debug\net5.0\Shapes.genruntimeconfig.cache
+C:\Users\o1357\source\repos\Shapes\Shapes\obj\Debug\net5.0\ref\Shapes.dll
